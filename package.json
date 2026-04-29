@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "hello": "echo hello",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -12,7 +13,7 @@
     "axios": "^1.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-flow-renderer": "^11.10.4"
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
@@ -24,4 +25,3 @@
     "vite": "^5.0.0"
   }
 }
-
